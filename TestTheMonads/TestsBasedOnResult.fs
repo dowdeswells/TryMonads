@@ -1,0 +1,2 @@
+﻿module TestTheMonads.TestsBasedOnResult
+
